@@ -1,0 +1,21 @@
+*{
+    background-color: rgb(26, 25, 25);
+}
+.container{
+    margin: 100px 250px;
+}
+.front-card{
+    width: 250px;
+    height: 400px;
+    display: inline;
+    margin: 0 20px;
+}
+.front-card:hover{
+    cursor: pointer;
+}
+.bottom-text{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 32px;
+    margin: 50px 160px;
+    color: white;
+}
